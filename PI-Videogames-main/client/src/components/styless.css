@@ -1,0 +1,160 @@
+.button:hover {
+    background-color: tomato;
+    color: black
+}
+
+button.buttonform {
+    font-size: 2.5rem;
+    margin: 1rem;
+}
+
+.buttoncreated {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+button.buttondetails {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+.carddetails {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.carddumb{
+    display: grid;
+ 
+}
+
+.cardsmart{
+    display: flex;
+    margin-top: 40rem;
+}
+
+.contform {
+    display: flex;
+    justify-content: center;
+}
+
+.details>h4 {
+    font-size: 1.6rem;
+    padding: 0.5rem;
+}
+
+.details>h3 {
+    font-size: 1.6rem;
+    padding: 0.5rem;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.description {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.errors {
+    color: red;
+}
+
+.filtros {
+    position: relative;
+    top: 10rem;
+    left: 5rem;
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+.formulario {
+    font-size: 2rem;
+}
+
+.fondo {
+    background-color: #d3d3d3;
+}
+
+.genres {
+    display: flex;
+    justify-content: center;
+}
+
+.home {
+    height: 100vh;
+}
+
+.itemform {
+    margin-top: 2rem;
+}
+
+.loading {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15rem;
+    background-color: #d3d3d3;
+}
+
+.LandingPage {
+    background-image: url("https://www.trecebits.com/wp-content/uploads/2019/04/11854.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    display: flex;
+}
+
+.ladingButton {
+    margin-top: 21rem;
+    font-size: 2.5rem;
+}
+
+.numeropaginado {
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+}
+
+.option {
+    margin-left: 5rem;
+    font-size: 3rem;
+}
+
+.tittle {
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.tittlescript {
+    font-size: 8rem;
+    display: flex;
+    justify-content: center;
+}
+
+.SearchBar {
+    position: absolute;
+    top: 0;
+    left: 50vh;
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+
